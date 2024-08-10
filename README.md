@@ -25,7 +25,7 @@ cd spring-boot-press-example, run SpringBootPressExampleApplication.java, then,
 
 cd spring-boot-press-admin, run SpringBootPressExampleApplication.java, as followed by the Fig.3 below.
 
-<div style="text-align: center;"
+<div style="text-align: center;">
     <img src="./img/admin-runner1.png" alt="admin-runner1" width="100%">
     <img src="./img/admin-runner2.png" alt="admin-runner2" width="100%">
     <img src="./img/admin1.png" alt="admin1" width="100%">
