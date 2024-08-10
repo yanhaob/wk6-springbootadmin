@@ -14,7 +14,7 @@ Deploy the unified management framework Spring Boot Admin to monitor the operati
 
 <div style="text-align: center;">
     <img src="./img/adminlogin-runner.png" alt="adminlogin-runner" width="100%">
-    <img src="./img/adminlogin.png" alt="adminactuator" width="100%">
+    <img src="./img/adminactuator.png" alt="adminactuator" width="100%">
     <img src="./img/adminlogin.png" alt="adminlogin" width="100%">
     <p style="margin: 0;">Fig.2 SpringBootAdmin Setup (spring-boot-actuator added)</p>
 </div>
